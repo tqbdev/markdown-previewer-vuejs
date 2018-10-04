@@ -1,4 +1,4 @@
-# markdown-priviewer-vue-js
+# markdown-previewer-vue-js
 
 ## Project setup
 ```
